@@ -1,0 +1,10 @@
+.Title {
+    background-color: #ccc;
+    color: #fff;
+    padding: 20px;
+    border: solid 1px #fff;
+    border-radius: 5px;
+}
+.Title span {
+    color: #000;
+}
